@@ -3,12 +3,10 @@
 }
 
 body {
-    /* margin: 0;
-    height: 768px;
-    width: 1440px; */
+    margin: 0 auto;
+    min-height: 100vh;
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
     background-image: linear-gradient(to bottom, #f9fafb, #d2d6db);
-    padding: 200px 0px;
 }

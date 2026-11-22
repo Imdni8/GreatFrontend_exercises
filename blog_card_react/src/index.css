@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: "Noto Sans", sans-serif;
+    background-image: linear-gradient(to bottom, #f9fafb, #d2d6db);
+}
+
+#root {
+    /* width: 1126px; */
+    max-width: 100%;
+    margin: 0 auto;
+    min-height: 100svh;
+    box-sizing: border-box;
+    background-color: #e0e0e0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: #4338ca;
+}
