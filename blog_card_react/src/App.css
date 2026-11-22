@@ -47,3 +47,12 @@
     color: #4338ca;
     font-size: 16px;
 }
+
+.btn-arrow-right a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.btn-arrow-right:hover {
+    color: rgb(33, 31, 100);
+}
